@@ -1,0 +1,14 @@
+C:\dev\TDDPratice\TDDPratice\bin\Debug\net6.0\TDDPratice.exe
+C:\dev\TDDPratice\TDDPratice\bin\Debug\net6.0\TDDPratice.deps.json
+C:\dev\TDDPratice\TDDPratice\bin\Debug\net6.0\TDDPratice.runtimeconfig.json
+C:\dev\TDDPratice\TDDPratice\bin\Debug\net6.0\TDDPratice.dll
+C:\dev\TDDPratice\TDDPratice\bin\Debug\net6.0\TDDPratice.pdb
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\TDDPratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\TDDPratice.AssemblyInfoInputs.cache
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\TDDPratice.AssemblyInfo.cs
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\TDDPratice.csproj.CoreCompileInputs.cache
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\TDDPratice.dll
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\refint\TDDPratice.dll
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\TDDPratice.pdb
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\TDDPratice.genruntimeconfig.cache
+C:\dev\TDDPratice\TDDPratice\obj\Debug\net6.0\ref\TDDPratice.dll
