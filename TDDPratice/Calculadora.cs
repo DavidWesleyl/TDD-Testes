@@ -8,7 +8,7 @@ namespace TDDPratice
 {
 	public class Calculadora
 	{
-		// Regra de negócio no teste TDD: método: calculadora, conter dois parametros inteiro e retornar ao final o historico dos 3 ultimos calculos
+		
 
 		public int Somar(int x, int y)
 		{
